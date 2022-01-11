@@ -4,7 +4,7 @@
     <header>
       <div class="is-flex">
         {{ with .Params.featured_image }}
-        <figure class="image is-96x96" style="margin-right: 0.5em;">
+        <figure class="image is-96x96" style="margin-right: 0.5em; overflow:hidden">
           <img alt="{{ . }}" class="is-rounded" src="/{{ . }}" />
         </figure>
         {{ end }}
