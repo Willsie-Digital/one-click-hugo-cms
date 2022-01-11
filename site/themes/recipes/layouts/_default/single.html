@@ -28,7 +28,11 @@
       <div class="columns">
         <div class="column">
           <h2>Ingredients</h2>
-          {{ .ingredients }}
+          <ul>
+            {{ range .Params.Ingredients }}
+            <li>{{ . }}</li>
+            {{ end }}
+          </ul>
         </div>
         <div class="column">
           {{ .Content }}
