@@ -24,8 +24,9 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Intro Blurb", name: "description", widget: "text"}
       - {label: "Summary", name: "summary", widget: "text"}
+      - {label: "Time", name: "time", widget: "text"}
       - {label: "Image", name: "featured_image", widget: "image", required: false}
-      - {label: "Tags", name: "tags", widget: "list", allow_add: true, add_to_top: true}
+      - {label: "Tags", name: "tags", widget: "list", summary: "{{fields.tag}}", allow_add: true, add_to_top: true, field: {label: Tag, name: tag, widget: string} }
       - {label: "Ingredients", name: "ingredients", widget: "list", summary: "{{fields.ingredient}}",  allow_add: true, field: {label: Ingedient, name: ingredient, widget: string} }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"

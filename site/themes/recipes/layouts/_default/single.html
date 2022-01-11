@@ -25,7 +25,16 @@
       </div>
     </header>
     <div class="content" style="margin-top: 1em;">
-      {{ .Content }}
+      <div class="columns">
+        <div class="column">
+          <h2>Ingredients</h2>
+          {{ .ingredients }}
+        </div>
+        <div class="column">
+          {{ .Content }}
+        </div>
+      </div>
+      
     </div>
   </article>
 </div>
