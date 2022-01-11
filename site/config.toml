@@ -1,9 +1,8 @@
-baseurl = "/"
+baseURL = "https://recipesbook.netlify.com/"
 languageCode = "en-us"
-languageLang = "en"
-title = "Homepage"
+title = "Willsie Family Recipe Book"
+theme = "recipes"
 
-# RSS, categories and tags disabled for an easy start
-# See configuration options for more details: 
-# https://gohugo.io/getting-started/configuration/#toml-configuration
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+[params]
+  author = "Willsie Digital"
+  description = "The Willsie Family Recipe Book that is free and open to the public"
