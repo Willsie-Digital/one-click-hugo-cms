@@ -7,27 +7,8 @@ draft: false
 time: "30m"
 tags: ["vegan", "burger"]
 featured_image: "/diybeyondburger.jpg"
+ingredients: ["3/4 Cup cooked brown rice", "1 Cup TVP", "1 Cup Vegetable Broth"]
 ---
-
-## Ingredients
-
-Makes 3 patties
-
-- 3/4 Cups - Cooked Brown Rice
-- 1 Cup - TVP
-- 1 Cup - Vegetable Broth
-- 1/8 Cup - Potato Starch Powder
-- 1 Tbsp - Coconut Oil (Not melted)
-- 1 Tsp - Sunflower Oil
-- 1 Tsp - Salt
-- 1 Tbsp - Finely Grated Beats
-- 1/2 Tsp - Black Pepper
-- 1/2 Tsp - Garlic Powder
-- 1/2 Tsp - Onion Powder
-- 1/2 Tbsp - Liquid Smoke
-- 1/2 Tsp - HP Sauce
-- Pinch - Red Pepper Flakes
-
 ## Directions
 
 1. Cook Brown Rice
