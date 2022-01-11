@@ -1,18 +1,32 @@
 ---
-title: "DIY Beyond Burger"
-description: "Home made Beyond Burger"
-summary: "Home made Beyond Burger"
-date: 2020-02-05T08:11:45-05:00
 draft: false
-time: "30m"
-tags: ["vegan", "burger"]
-featured_image: "/diybeyondburger.jpg"
-ingredients: ["3/4 Cup cooked brown rice", "1 Cup TVP", "1 Cup Vegetable Broth"]
+title: Crispy Chicken Thighs with Smoky Chikpeas
+date: 2022-01-11T16:08:24.119Z
+description: Easy meal that can be done in one cast iron pan.
+summary: Easy meal that can be done in one cast iron pan.
+featured_image: img/1482429963-clx010117winnerdinners-03.jpg
+tags:
+  - dinner
+  - chicken
+  - chickpeas
+  - favourite
+  - mason approved
+ingredients:
+  - Canola Oil
+  - 8 small bone in, skin on chicken thighs
+  - 1/2 medium onion, chopped
+  - 3 cloves garlic chopped
+  - 1-1/2 tsp smoked paprika
+  - 1/2 tsp ground cumin
+  - 1 pint grape tomatoes
+  - 2 15oz cans chickpeas (rinsed)
+  - Fresh Thyme Leaves
+  - Salt and Fresh ground black pepper
+  - 1/2 cup plain Greek Yogurt (optional)
+time: 30m
 ---
 ## Directions
 
-1. Cook Brown Rice
-2. Boil vegetable broth and pour into bowl holding TVP. Let soak for a few minutes, until absorbed, fluff with fork
-3. Add all ingredients into a food processor, pulse until burger consistency achieved
-4. Form into patties and cook
-5. Optionally add vegan cheese, tomatoes and anything else on your burger.
+1. Preheat oven to 425 degrees F. Heat **oil** in large cast iron or oven safe pan. Season **chicken** with **salt and pepper**. Cook in batches, skin-side down until crispy *(8-10 minutes)*, set aside chicken to plate and reserve pan.
+2. Add **onion** and **garlic** to reserved pan and sauté until onions begin to soften *(2-4 minutes)*. Add **paprika** and **cumin**, stir 30 seconds or until fragrant. Add **tomatoes** and **chickpeas** and bring to a simmer. Season with salt and pepper.
+3. Nestle **chicken** into mixture skin-side up. Roast in oven uncovered *(20-25 minutes)*. Sprinkle fresh **thyme** on top and serve with side of yogurt.
