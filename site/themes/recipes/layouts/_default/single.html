@@ -4,8 +4,8 @@
     <header>
       <div class="is-flex">
         {{ with .Params.featured_image }}
-        <figure class="image is-96x96" style="margin-right: 0.5em; overflow:hidden; border-radius: 290486px">
-          <img alt="{{ . }}" src="/{{ . }}" />
+        <figure class="image is-96x96" style="margin-right: 0.5em;">
+          <img class="is-rounded" style="width: 96px; height: 96px; max-width: 96px; max-height: 96px; object-fit: cover;" alt="{{ . }}" src="/{{ . }}" />
         </figure>
         {{ end }}
         <div>
