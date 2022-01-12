@@ -2,8 +2,8 @@
 draft: false
 title: Crispy Chicken Thighs with Smoky Chikpeas
 date: 2022-01-11T16:08:24.119Z
-description: Use cast iron pan
-summary: Use cast iron pan
+description: One pan meal
+summary: One pan meal
 time: 30m
 featured_image: img/1482429963-clx010117winnerdinners-03.jpg
 tags:
