@@ -1,8 +1,8 @@
 ---
 title: Baked cinnamon Apple French Toast
 date: 2022-01-11T18:59:28.541Z
-description: "Use cubed bread instead of slices for the best results. "
-summary: "Use cubed bread instead of slices for the best results. "
+description: Can be made ahead. Makes a lot.
+summary: Can be made ahead. Makes a lot.
 time: 1hr
 featured_image: img/picture3.png
 tags:
