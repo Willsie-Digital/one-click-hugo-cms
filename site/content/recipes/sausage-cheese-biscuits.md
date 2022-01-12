@@ -1,8 +1,8 @@
 ---
 title: Sausage & Cheese Biscuits
 date: 2022-01-11T18:31:34.588Z
-description: Tea biscuits we make for special occasions or holidays.
-summary: Tea biscuits we make for special occasions or holidays.
+description: Tea biscuits for holidays or guests.
+summary: Tea biscuits for holidays or guests.
 time: 30m
 featured_image: img/picture1.png
 tags:
