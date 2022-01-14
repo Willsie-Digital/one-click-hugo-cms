@@ -8,22 +8,22 @@
     </div>
     <div class="columns is-centered">
       <div class="column">
-        {{ range $index, $page := .Pages }}
+        {{ range $index, $page := .Pages.ByTitle }}
           {{ if eq (mod $index 4) 0 }}{{ partial "box.html" $page }}{{ end }}
         {{ end }}
       </div>
       <div class="column">
-        {{ range $index, $page := .Pages }}
+        {{ range $index, $page := .Pages.ByTitle }}
           {{ if eq (mod $index 4) 1 }}{{ partial "box.html" $page }}{{ end }}
         {{ end }}
       </div>
       <div class="column">
-        {{ range $index, $page := .Pages }}
+        {{ range $index, $page := .Pages.ByTitle }}
           {{ if eq (mod $index 4) 2 }}{{ partial "box.html" $page }}{{ end }}
         {{ end }}
       </div>
       <div class="column">
-        {{ range $index, $page := .Pages }}
+        {{ range $index, $page := .Pages.ByTitle }}
           {{ if eq (mod $index 4) 3 }}{{ partial "box.html" $page }}{{ end }}
         {{ end }}
       </div>
