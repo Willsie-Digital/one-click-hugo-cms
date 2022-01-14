@@ -1,8 +1,8 @@
 ---
 title: Broccoli Salad
 date: 2022-01-11T19:10:00.908Z
-description: Classic summer salad dish for broccoli lovers.
-summary: Classic summer salad dish for broccoli lovers.
+description: Yes...  1 cup of mayo and sunflower seeds
+summary: Yes...  1 cup of mayo and sunflower seeds
 time: 30m
 featured_image: img/picture4.jpg
 tags:
