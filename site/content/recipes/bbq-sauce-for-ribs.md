@@ -20,3 +20,5 @@ ingredients:
 ## Directions
 
 1. Combine all ingredients in a bowl and pour into pressure cooker with raw ribs.
+
+[Recipe for Pressure Cooker Ribs](/recipes/pressure-cooker-ribs/)
