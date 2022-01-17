@@ -4,6 +4,7 @@ date: 2022-01-17T16:47:10.862Z
 description: Serve with rice
 summary: Serve with rice
 time: 45m
+featured_image: img/picture15.jpg
 tags:
   - dinner
 ingredients:
