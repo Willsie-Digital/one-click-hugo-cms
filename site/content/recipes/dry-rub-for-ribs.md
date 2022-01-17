@@ -22,3 +22,5 @@ ingredients:
 ## Directions
 
 1. Mix all the dry rub ingredients.
+
+[Recipe for Pressure Cooker Ribs](/recipes/pressure-cooker-ribs/)
