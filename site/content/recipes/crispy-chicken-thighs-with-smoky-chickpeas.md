@@ -9,8 +9,6 @@ featured_image: img/1482429963-clx010117winnerdinners-03.jpg
 tags:
   - cast iron
   - dinner
-  - chicken
-  - chickpeas
   - mason approved
 ingredients:
   - Canola Oil
