@@ -8,6 +8,7 @@ summary: A super delicious stew that fills the craving of a chicken pot pie
 time: 55m
 featured_image: img/chicken-stew-22.jpg
 tags:
+  - dinner
   - stew
 ingredients:
   - 6 chicken thighs. diced
