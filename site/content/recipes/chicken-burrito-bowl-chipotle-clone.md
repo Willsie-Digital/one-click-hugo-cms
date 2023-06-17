@@ -8,6 +8,7 @@ summary: This chicken burrito bowl, is a nutritious, delicious and filling meal.
 time: 25m
 featured_image: img/copycat-chipotle-burrito-bowls-7-of-7.jpg
 tags:
+  - mexican
   - low-sodium
   - dinner
 ingredients:
