@@ -6,6 +6,7 @@ summary: Combine with Bacon for the ultimate Bacon Pancakes
 time: 30m
 featured_image: img/picture2.png
 tags:
+  - mason approved
   - breakfast
 ingredients:
   - 3/4 cup milk
